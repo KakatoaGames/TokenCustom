@@ -1,0 +1,9 @@
+name: Token Custom
+version: ${project.version}
+main: io.github.mazkaaa.tokencustom.TokenCustom
+api-version: 1.13
+prefix: TOKEN:
+load: STARTUP
+authors: [mazkaaa]
+description: Customizable token system
+website: mazkaaa.github.io
